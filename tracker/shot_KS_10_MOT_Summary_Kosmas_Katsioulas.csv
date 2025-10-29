@@ -1,0 +1,2 @@
+,num_frames,mota,idf1,precision,recall,mostly_tracked,mostly_lost,num_switches
+overall,65,0.7587242026266416,0.7797543413807708,1.0,0.7718574108818012,51,143,35
