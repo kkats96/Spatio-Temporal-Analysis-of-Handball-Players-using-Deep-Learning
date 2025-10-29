@@ -1,0 +1,7 @@
+path: /content/handball_data
+train: train_balanced.txt
+val: val.txt
+test: test.txt
+names:
+  0: player
+nc: 1
