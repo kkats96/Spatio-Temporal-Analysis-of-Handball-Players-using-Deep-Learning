@@ -1,1 +1,0 @@
-action,clip,csv_path,n_rows,n_frames,min_frame,max_frame,frames_with_dets,mean_dets_per_frame,missing_frames,mean_w,mean_h,mean_ar,mean_area,conf_median,conf_p10,conf_p90
