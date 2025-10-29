@@ -1,0 +1,8 @@
+action,bad_size,out_of_bounds,nan_or_inf,neg_conf
+crossing,0,0,0,0
+defence,0,0,0,0
+dribbling,0,0,0,0
+jump-shot,0,0,0,0
+passing,0,0,0,0
+running,0,0,0,0
+shot,0,0,0,0
